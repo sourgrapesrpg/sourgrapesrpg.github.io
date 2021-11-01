@@ -10,7 +10,7 @@ And the stories were wild. They crossed genres, they blended fictional construct
 
 They broke worlds.
 
-
+This system exists to provide a starting point for some and paper airplanes for others. It's here to have a laugh or just be blank pages for your own doodles. 
 
 
 
