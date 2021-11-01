@@ -1,8 +1,11 @@
-## Examples! 
+# Examples! 
 This assumes you have downloaded/read the core rules and are looking to dive deeper.
 
-### Situation 1 | The Hallway of Terrors!
-> The adventure is 1980s horror themed. The party of college students have managed to break through into the long abandoned dormatory where their friend has just gone missing. There is a scream and their only flashlight goes out. You can see some light from an outside streetlamp shining in the room at the opposite end of the hallway.
+## Story One - The Haunted Dorm
+The adventure is 1980s horror themed. We will be looking at three situations that use the primary rolls found in sour grapes (Spend, Check and Situation)
+
+### Part 1 | The Hallway of Terrors!
+> The party of college students have managed to break through into the long abandoned dormatory where their friend has just gone missing. There is a scream and their only flashlight goes out. You can see some light from an outside streetlamp shining in the room at the opposite end of the hallway.
 - Storyteller: Well?
 - Jake: My character is going to continue down the hallway and try and find a light along the wall
 - Storyteller: What's your character's Current Resolve?
@@ -18,8 +21,8 @@ In this situation the story is progressed by spending stat points. There was no 
 
 
 
-### Situation 2 | The Surprise
-> Continuing from Situation 1. The party enters the room at the end of the hallway. The room is dimly lit from a streetlamp outside. When the party enters in the room they hear a rustling noise from above. Then something leaps down at Ben.
+### Part 2 | The Surprise
+> Continuing from Part 1. The party enters the room at the end of the hallway. The room is dimly lit from a streetlamp outside. When the party enters in the room they hear a rustling noise from above. Then something leaps down at Ben.
 - Storyteller: Ben make an Agility check roll, difficulty of 4 to get out of the way.
 - Ben: My Agility is 4 exactly, so no matter what I'm going to fail, can I use any skill?
 - Storyteller: What do you want to use?
@@ -35,3 +38,6 @@ In this situation the story is progressed by spending stat points. There was no 
 - Ben: AAAAHHHH! I run back to where we came in
 - Sarah: I get ready to attack the thing.
 - Storyteller: It meows at you. It's your missing friend's cat.
+
+### Part 3 | Ben
+
