@@ -1,0 +1,1 @@
+common situations and resolutions
