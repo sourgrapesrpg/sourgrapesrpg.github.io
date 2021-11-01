@@ -39,5 +39,24 @@ In this situation the story is progressed by spending stat points. There was no 
 - Sarah: I get ready to attack the thing.
 - Storyteller: It meows at you. It's your missing friend's cat.
 
-### Part 3 | Ben
+In this part of the story Ben needed to pass a check roll but failed, this caused him to lose a point of Resolve from the cat scaring him. Since his Resolve hit zero he went into a panick.
+
+### Part 3 | Ben?
+> Now Ben is missing.
+- Storyteller: Well, now what?
+- Jake: We need to go find Ben
+- Storyteller: OK well he just took off and it's pitch black in all the other rooms so how do you want to do this? 
+- Sarah: Let's fix the flashlight
+- Storyteller: Great idea, you find out that it just needs a little bit of tightening and it comes back on.
+- Sarah: Do we see anything that indicates where he might have left? Any dust on the ground that's been disturbed?
+- Storyteller: That sounds like a Perception check, any Skill to use?
+- Jake: My character is majoring in Forensics, how about that?
+- Storyteller: OK sure, difficulty of 3
+- Jake: I just use up my Forensics Skill of 2 and I'll roll all my Perception (4)
+`2,3,4,2`
+- Jake: Six total. The two points of Forensic plus 4 successes in Perception
+- Storyteller: Jake you scan the area and notice that one of the doors is opened but you thought it was closed when you came in here. Also you can see clouds of dust hitting the flashlight from that area as if it was recently forced open.
+
+The party couldn't just go find Ben without doing some work ahead of time. This is a good example of a Situation roll. As the party performed actions such as fixing the flashlight the situation became easier until it was finally just a standard check roll to find Ben.
+
 
