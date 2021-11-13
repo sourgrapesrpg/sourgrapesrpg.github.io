@@ -32,3 +32,6 @@ No additional restrictions — You may not apply legal terms or technological me
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+### Attribution
+Icons used in many of the publications were made by https://game-icons.net/
