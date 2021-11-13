@@ -34,4 +34,4 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 ### Attribution
-Icons used in many of the publications were made by https://game-icons.net/
+Icons used in many parts of this site and printed publications were made by https://game-icons.net/
