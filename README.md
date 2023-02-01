@@ -2,13 +2,7 @@
 
 An open source RPG system designed for newsletter style, single-evening role playing events
 
-[Why does this exist?](about)
-
 [Core Rules](https://github.com/sourgrapesrpg/rulebook/raw/main/rulebook.pdf)
-
-[Print This](https://github.com/sourgrapesrpg/rulebook/raw/main/printouts.pdf)
-
-[Examples](examples)
 
 ## How to use?
 All work is published under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
